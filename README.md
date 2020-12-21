@@ -9,7 +9,7 @@ This script currently supports
 * Incrementing IPv6 address for whole two quads such as [0000:0000] to [FFFF:FFFF]
 
 
-### installation
+### Installation
 
 ```
 [sargandh:SARGANDH-3QLQC]$ git clone https://github.com/saravana815/scale_config_generator.git
