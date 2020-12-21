@@ -1,10 +1,9 @@
 
-## scale config generator
+# scale config generator
 
-Python based scale config generator for generating scale configs using a template file for cisco and cisco like CLI devices.
+Python2 based scale config generator for generating scale configs using a template file for cisco and cisco like devices.
 
-The script currently supports
-
+This script currently supports
 * Incrementing Numbers
 * Incrementing IP address
 * Incrementing IPv6 address for whole two quads such as [0000:0000] to [FFFF:FFFF]
@@ -13,6 +12,7 @@ The script currently supports
 ### Example usage 1
 
 Template file name - config.txt
+Default output config file - config_out.txt
 
 ```
 [sargandh:SARGANDH-3QLQC]$ cat config.txt
@@ -36,22 +36,20 @@ usage: scale_config.py [-h] -f FILE -c COUNT # -c number of iterations to run
   ip address 20.0.0.3 255.255.255.252
   ipv6 address 2001:11AA:22BC::2/64
 
-
-[sargandh:bgl-ads-1214]$ python scale_config.py -f config.txt -c 2
-
-interface GigabitEthernet0/0/3.2000
- encapsulation dot1Q 2000
- ip address 20.0.0.2 255.255.255.252
- ipv6 address 2001:0:10::2/64
-
 [sargandh:SARGANDH-3QLQC]$
+[sargandh:SARGANDH-3QLQC]$ ls -lh config_out.txt
+-rwxrwxrwx 1 sargandh sargandh  282 Dec 21 21:51 config_out.txt
+[sargandh:SARGANDH-3QLQC]$
+
 ```
 
 ### Example usage 2
 
-Increment number by value more than 1 from a starting number to end number
+Template file name - config2.txt
 
+Increment number by value more than 1 from a starting number to end number
 Increment IP address, IPv6 address by value more than one
+
 ```
 [sargandh:SARGANDH-3QLQC]$ cat config2.txt
 

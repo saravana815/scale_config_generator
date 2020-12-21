@@ -180,7 +180,7 @@ for i in range(args.count):
         if lt[ln]['regsub'] == True:
             #print line with value increment and replace 0x with ''
             print lt[ln]['line_format'].format(*lt[ln]['substring']).replace('0x',''),
-            # print >>fout, lt[ln]['line_format'].format(*lt[ln]['substring']).replace('0x',''),
+            print >>fout, lt[ln]['line_format'].format(*lt[ln]['substring']).replace('0x',''),
             #increment the values for next iterataion
             lt[ln]['substring_new'] = []
             for num, x in enumerate(lt[ln]['substring']):
