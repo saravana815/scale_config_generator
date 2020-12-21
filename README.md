@@ -9,6 +9,17 @@ This script currently supports
 * Incrementing IPv6 address for whole two quads such as [0000:0000] to [FFFF:FFFF]
 
 
+### installation
+
+```
+[sargandh:SARGANDH-3QLQC]$ git clone https://github.com/saravana815/scale_config_generator.git
+[sargandh:SARGANDH-3QLQC]$ cd scale_config_generator
+[sargandh:SARGANDH-3QLQC]$ python scale_config.py
+usage: scale_config.py [-h] -f FILE -c COUNT
+scale_config.py: error: argument -f/--file is required
+[sargandh:SARGANDH-3QLQC]$
+```
+
 ### Example usage 1
 
 Template file name - config.txt.
