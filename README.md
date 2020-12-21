@@ -17,30 +17,48 @@ Default output config file - config_out.txt
 ```
 [sargandh:SARGANDH-3QLQC]$ cat config.txt
 
-interface GigabitEthernet0/0/3.[2000]     # Number increment
+interface GigabitEthernet0/0/3.[2000]             # Number increment
  encapsulation dot1Q [2000]
- ip address 20.0.[0.2] 255.255.255.252    # IP address increment
- ipv6 address 2001:[11AA:22BB]::2/64      # IPv6 address increment
+ ip address 20.0.[0.2] 255.255.255.252            # IP address increment
+ ip address 21.[0.0.2] 255.255.255.252 secondary  # IP address increment
+ ip address [22.0.0.2] 255.255.255.252 secondary  # IP address increment
+ ipv6 address 2001:[11AA:22BB]::2/64              # IPv6 address increment
 
 [sargandh:bgl-ads-1214]$ ./scale_config.py
 usage: scale_config.py [-h] -f FILE -c COUNT # -c number of iterations to run
 
-[sargandh:SARGANDH-3QLQC]$ python scale_config_new.py -f config.txt -c 2
+[sargandh:SARGANDH-3QLQC]$ python scale_config.py -f config.txt -c 4
  interface GigabitEthernet0/0/3.2000
   encapsulation dot1Q 2000
   ip address 20.0.0.2 255.255.255.252
+  ip address 21.0.0.2 255.255.255.252 secondary
+  ip address 22.0.0.2 255.255.255.252 secondary
   ipv6 address 2001:11AA:22BB::2/64
 
  interface GigabitEthernet0/0/3.2001
   encapsulation dot1Q 2001
   ip address 20.0.0.3 255.255.255.252
+  ip address 21.0.0.3 255.255.255.252 secondary
+  ip address 22.0.0.3 255.255.255.252 secondary
   ipv6 address 2001:11AA:22BC::2/64
 
-[sargandh:SARGANDH-3QLQC]$
-[sargandh:SARGANDH-3QLQC]$ ls -lh config_out.txt
--rwxrwxrwx 1 sargandh sargandh  282 Dec 21 21:51 config_out.txt
-[sargandh:SARGANDH-3QLQC]$
+ interface GigabitEthernet0/0/3.2002
+  encapsulation dot1Q 2002
+  ip address 20.0.0.4 255.255.255.252
+  ip address 21.0.0.4 255.255.255.252 secondary
+  ip address 22.0.0.4 255.255.255.252 secondary
+  ipv6 address 2001:11AA:22BD::2/64
 
+ interface GigabitEthernet0/0/3.2003
+  encapsulation dot1Q 2003
+  ip address 20.0.0.5 255.255.255.252
+  ip address 21.0.0.5 255.255.255.252 secondary
+  ip address 22.0.0.5 255.255.255.252 secondary
+  ipv6 address 2001:11AA:22BE::2/64
+
+[sargandh:SARGANDH-3QLQC]$ ls -lh config_out.txt
+-rwxrwxrwx 1 sargandh sargandh 474 Dec 21 22:11 config_out.txt
+[sargandh:SARGANDH-3QLQC]$
 ```
 
 ### Example usage 2
