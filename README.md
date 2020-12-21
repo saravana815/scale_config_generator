@@ -11,8 +11,10 @@ This script currently supports
 
 ### Example usage 1
 
-Template file name - config.txt
-Default output config file - config_out.txt
+Template file name - config.txt.
+
+Default output config file - config_out.txt.
+
 
 ```
 [sargandh:SARGANDH-3QLQC]$ cat config.txt
@@ -48,6 +50,7 @@ usage: scale_config.py [-h] -f FILE -c COUNT # -c number of iterations to run
 Template file name - config2.txt
 
 Increment number by value more than 1 from a starting number to end number
+
 Increment IP address, IPv6 address by value more than one
 
 ```
