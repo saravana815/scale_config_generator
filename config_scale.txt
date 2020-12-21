@@ -1,0 +1,12 @@
+
+interface GigabitEthernet0/0/3.2000
+ encapsulation dot1Q 2000
+ ip address 20.0.0.2 255.255.255.252
+ ipv6 address 2001:10::2/64
+
+
+interface GigabitEthernet0/0/3.2001
+ encapsulation dot1Q 2001
+ ip address 20.0.1.2 255.255.255.252
+ ipv6 address 2001:11::2/64
+

@@ -1,0 +1,1800 @@
+
+interface GigabitEthernet0/0/3.2000
+ encapsulation dot1Q 2000
+ ip address 20.0.0.2 255.255.255.252
+ ipv6 address 2001:10::2/64
+
+
+interface GigabitEthernet0/0/3.2001
+ encapsulation dot1Q 2001
+ ip address 20.0.1.2 255.255.255.252
+ ipv6 address 2001:11::2/64
+
+
+interface GigabitEthernet0/0/3.2002
+ encapsulation dot1Q 2002
+ ip address 20.0.2.2 255.255.255.252
+ ipv6 address 2001:12::2/64
+
+
+interface GigabitEthernet0/0/3.2003
+ encapsulation dot1Q 2003
+ ip address 20.0.3.2 255.255.255.252
+ ipv6 address 2001:13::2/64
+
+
+interface GigabitEthernet0/0/3.2004
+ encapsulation dot1Q 2004
+ ip address 20.0.4.2 255.255.255.252
+ ipv6 address 2001:14::2/64
+
+
+interface GigabitEthernet0/0/3.2005
+ encapsulation dot1Q 2005
+ ip address 20.0.5.2 255.255.255.252
+ ipv6 address 2001:15::2/64
+
+
+interface GigabitEthernet0/0/3.2006
+ encapsulation dot1Q 2006
+ ip address 20.0.6.2 255.255.255.252
+ ipv6 address 2001:16::2/64
+
+
+interface GigabitEthernet0/0/3.2007
+ encapsulation dot1Q 2007
+ ip address 20.0.7.2 255.255.255.252
+ ipv6 address 2001:17::2/64
+
+
+interface GigabitEthernet0/0/3.2008
+ encapsulation dot1Q 2008
+ ip address 20.0.8.2 255.255.255.252
+ ipv6 address 2001:18::2/64
+
+
+interface GigabitEthernet0/0/3.2009
+ encapsulation dot1Q 2009
+ ip address 20.0.9.2 255.255.255.252
+ ipv6 address 2001:19::2/64
+
+
+interface GigabitEthernet0/0/3.2010
+ encapsulation dot1Q 2010
+ ip address 20.0.10.2 255.255.255.252
+ ipv6 address 2001:1a::2/64
+
+
+interface GigabitEthernet0/0/3.2011
+ encapsulation dot1Q 2011
+ ip address 20.0.11.2 255.255.255.252
+ ipv6 address 2001:1b::2/64
+
+
+interface GigabitEthernet0/0/3.2012
+ encapsulation dot1Q 2012
+ ip address 20.0.12.2 255.255.255.252
+ ipv6 address 2001:1c::2/64
+
+
+interface GigabitEthernet0/0/3.2013
+ encapsulation dot1Q 2013
+ ip address 20.0.13.2 255.255.255.252
+ ipv6 address 2001:1d::2/64
+
+
+interface GigabitEthernet0/0/3.2014
+ encapsulation dot1Q 2014
+ ip address 20.0.14.2 255.255.255.252
+ ipv6 address 2001:1e::2/64
+
+
+interface GigabitEthernet0/0/3.2015
+ encapsulation dot1Q 2015
+ ip address 20.0.15.2 255.255.255.252
+ ipv6 address 2001:1f::2/64
+
+
+interface GigabitEthernet0/0/3.2016
+ encapsulation dot1Q 2016
+ ip address 20.0.16.2 255.255.255.252
+ ipv6 address 2001:20::2/64
+
+
+interface GigabitEthernet0/0/3.2017
+ encapsulation dot1Q 2017
+ ip address 20.0.17.2 255.255.255.252
+ ipv6 address 2001:21::2/64
+
+
+interface GigabitEthernet0/0/3.2018
+ encapsulation dot1Q 2018
+ ip address 20.0.18.2 255.255.255.252
+ ipv6 address 2001:22::2/64
+
+
+interface GigabitEthernet0/0/3.2019
+ encapsulation dot1Q 2019
+ ip address 20.0.19.2 255.255.255.252
+ ipv6 address 2001:23::2/64
+
+
+interface GigabitEthernet0/0/3.2020
+ encapsulation dot1Q 2020
+ ip address 20.0.20.2 255.255.255.252
+ ipv6 address 2001:24::2/64
+
+
+interface GigabitEthernet0/0/3.2021
+ encapsulation dot1Q 2021
+ ip address 20.0.21.2 255.255.255.252
+ ipv6 address 2001:25::2/64
+
+
+interface GigabitEthernet0/0/3.2022
+ encapsulation dot1Q 2022
+ ip address 20.0.22.2 255.255.255.252
+ ipv6 address 2001:26::2/64
+
+
+interface GigabitEthernet0/0/3.2023
+ encapsulation dot1Q 2023
+ ip address 20.0.23.2 255.255.255.252
+ ipv6 address 2001:27::2/64
+
+
+interface GigabitEthernet0/0/3.2024
+ encapsulation dot1Q 2024
+ ip address 20.0.24.2 255.255.255.252
+ ipv6 address 2001:28::2/64
+
+
+interface GigabitEthernet0/0/3.2025
+ encapsulation dot1Q 2025
+ ip address 20.0.25.2 255.255.255.252
+ ipv6 address 2001:29::2/64
+
+
+interface GigabitEthernet0/0/3.2026
+ encapsulation dot1Q 2026
+ ip address 20.0.26.2 255.255.255.252
+ ipv6 address 2001:2a::2/64
+
+
+interface GigabitEthernet0/0/3.2027
+ encapsulation dot1Q 2027
+ ip address 20.0.27.2 255.255.255.252
+ ipv6 address 2001:2b::2/64
+
+
+interface GigabitEthernet0/0/3.2028
+ encapsulation dot1Q 2028
+ ip address 20.0.28.2 255.255.255.252
+ ipv6 address 2001:2c::2/64
+
+
+interface GigabitEthernet0/0/3.2029
+ encapsulation dot1Q 2029
+ ip address 20.0.29.2 255.255.255.252
+ ipv6 address 2001:2d::2/64
+
+
+interface GigabitEthernet0/0/3.2030
+ encapsulation dot1Q 2030
+ ip address 20.0.30.2 255.255.255.252
+ ipv6 address 2001:2e::2/64
+
+
+interface GigabitEthernet0/0/3.2031
+ encapsulation dot1Q 2031
+ ip address 20.0.31.2 255.255.255.252
+ ipv6 address 2001:2f::2/64
+
+
+interface GigabitEthernet0/0/3.2032
+ encapsulation dot1Q 2032
+ ip address 20.0.32.2 255.255.255.252
+ ipv6 address 2001:30::2/64
+
+
+interface GigabitEthernet0/0/3.2033
+ encapsulation dot1Q 2033
+ ip address 20.0.33.2 255.255.255.252
+ ipv6 address 2001:31::2/64
+
+
+interface GigabitEthernet0/0/3.2034
+ encapsulation dot1Q 2034
+ ip address 20.0.34.2 255.255.255.252
+ ipv6 address 2001:32::2/64
+
+
+interface GigabitEthernet0/0/3.2035
+ encapsulation dot1Q 2035
+ ip address 20.0.35.2 255.255.255.252
+ ipv6 address 2001:33::2/64
+
+
+interface GigabitEthernet0/0/3.2036
+ encapsulation dot1Q 2036
+ ip address 20.0.36.2 255.255.255.252
+ ipv6 address 2001:34::2/64
+
+
+interface GigabitEthernet0/0/3.2037
+ encapsulation dot1Q 2037
+ ip address 20.0.37.2 255.255.255.252
+ ipv6 address 2001:35::2/64
+
+
+interface GigabitEthernet0/0/3.2038
+ encapsulation dot1Q 2038
+ ip address 20.0.38.2 255.255.255.252
+ ipv6 address 2001:36::2/64
+
+
+interface GigabitEthernet0/0/3.2039
+ encapsulation dot1Q 2039
+ ip address 20.0.39.2 255.255.255.252
+ ipv6 address 2001:37::2/64
+
+
+interface GigabitEthernet0/0/3.2040
+ encapsulation dot1Q 2040
+ ip address 20.0.40.2 255.255.255.252
+ ipv6 address 2001:38::2/64
+
+
+interface GigabitEthernet0/0/3.2041
+ encapsulation dot1Q 2041
+ ip address 20.0.41.2 255.255.255.252
+ ipv6 address 2001:39::2/64
+
+
+interface GigabitEthernet0/0/3.2042
+ encapsulation dot1Q 2042
+ ip address 20.0.42.2 255.255.255.252
+ ipv6 address 2001:3a::2/64
+
+
+interface GigabitEthernet0/0/3.2043
+ encapsulation dot1Q 2043
+ ip address 20.0.43.2 255.255.255.252
+ ipv6 address 2001:3b::2/64
+
+
+interface GigabitEthernet0/0/3.2044
+ encapsulation dot1Q 2044
+ ip address 20.0.44.2 255.255.255.252
+ ipv6 address 2001:3c::2/64
+
+
+interface GigabitEthernet0/0/3.2045
+ encapsulation dot1Q 2045
+ ip address 20.0.45.2 255.255.255.252
+ ipv6 address 2001:3d::2/64
+
+
+interface GigabitEthernet0/0/3.2046
+ encapsulation dot1Q 2046
+ ip address 20.0.46.2 255.255.255.252
+ ipv6 address 2001:3e::2/64
+
+
+interface GigabitEthernet0/0/3.2047
+ encapsulation dot1Q 2047
+ ip address 20.0.47.2 255.255.255.252
+ ipv6 address 2001:3f::2/64
+
+
+interface GigabitEthernet0/0/3.2048
+ encapsulation dot1Q 2048
+ ip address 20.0.48.2 255.255.255.252
+ ipv6 address 2001:40::2/64
+
+
+interface GigabitEthernet0/0/3.2049
+ encapsulation dot1Q 2049
+ ip address 20.0.49.2 255.255.255.252
+ ipv6 address 2001:41::2/64
+
+
+interface GigabitEthernet0/0/3.2050
+ encapsulation dot1Q 2050
+ ip address 20.0.50.2 255.255.255.252
+ ipv6 address 2001:42::2/64
+
+
+interface GigabitEthernet0/0/3.2051
+ encapsulation dot1Q 2051
+ ip address 20.0.51.2 255.255.255.252
+ ipv6 address 2001:43::2/64
+
+
+interface GigabitEthernet0/0/3.2052
+ encapsulation dot1Q 2052
+ ip address 20.0.52.2 255.255.255.252
+ ipv6 address 2001:44::2/64
+
+
+interface GigabitEthernet0/0/3.2053
+ encapsulation dot1Q 2053
+ ip address 20.0.53.2 255.255.255.252
+ ipv6 address 2001:45::2/64
+
+
+interface GigabitEthernet0/0/3.2054
+ encapsulation dot1Q 2054
+ ip address 20.0.54.2 255.255.255.252
+ ipv6 address 2001:46::2/64
+
+
+interface GigabitEthernet0/0/3.2055
+ encapsulation dot1Q 2055
+ ip address 20.0.55.2 255.255.255.252
+ ipv6 address 2001:47::2/64
+
+
+interface GigabitEthernet0/0/3.2056
+ encapsulation dot1Q 2056
+ ip address 20.0.56.2 255.255.255.252
+ ipv6 address 2001:48::2/64
+
+
+interface GigabitEthernet0/0/3.2057
+ encapsulation dot1Q 2057
+ ip address 20.0.57.2 255.255.255.252
+ ipv6 address 2001:49::2/64
+
+
+interface GigabitEthernet0/0/3.2058
+ encapsulation dot1Q 2058
+ ip address 20.0.58.2 255.255.255.252
+ ipv6 address 2001:4a::2/64
+
+
+interface GigabitEthernet0/0/3.2059
+ encapsulation dot1Q 2059
+ ip address 20.0.59.2 255.255.255.252
+ ipv6 address 2001:4b::2/64
+
+
+interface GigabitEthernet0/0/3.2060
+ encapsulation dot1Q 2060
+ ip address 20.0.60.2 255.255.255.252
+ ipv6 address 2001:4c::2/64
+
+
+interface GigabitEthernet0/0/3.2061
+ encapsulation dot1Q 2061
+ ip address 20.0.61.2 255.255.255.252
+ ipv6 address 2001:4d::2/64
+
+
+interface GigabitEthernet0/0/3.2062
+ encapsulation dot1Q 2062
+ ip address 20.0.62.2 255.255.255.252
+ ipv6 address 2001:4e::2/64
+
+
+interface GigabitEthernet0/0/3.2063
+ encapsulation dot1Q 2063
+ ip address 20.0.63.2 255.255.255.252
+ ipv6 address 2001:4f::2/64
+
+
+interface GigabitEthernet0/0/3.2064
+ encapsulation dot1Q 2064
+ ip address 20.0.64.2 255.255.255.252
+ ipv6 address 2001:50::2/64
+
+
+interface GigabitEthernet0/0/3.2065
+ encapsulation dot1Q 2065
+ ip address 20.0.65.2 255.255.255.252
+ ipv6 address 2001:51::2/64
+
+
+interface GigabitEthernet0/0/3.2066
+ encapsulation dot1Q 2066
+ ip address 20.0.66.2 255.255.255.252
+ ipv6 address 2001:52::2/64
+
+
+interface GigabitEthernet0/0/3.2067
+ encapsulation dot1Q 2067
+ ip address 20.0.67.2 255.255.255.252
+ ipv6 address 2001:53::2/64
+
+
+interface GigabitEthernet0/0/3.2068
+ encapsulation dot1Q 2068
+ ip address 20.0.68.2 255.255.255.252
+ ipv6 address 2001:54::2/64
+
+
+interface GigabitEthernet0/0/3.2069
+ encapsulation dot1Q 2069
+ ip address 20.0.69.2 255.255.255.252
+ ipv6 address 2001:55::2/64
+
+
+interface GigabitEthernet0/0/3.2070
+ encapsulation dot1Q 2070
+ ip address 20.0.70.2 255.255.255.252
+ ipv6 address 2001:56::2/64
+
+
+interface GigabitEthernet0/0/3.2071
+ encapsulation dot1Q 2071
+ ip address 20.0.71.2 255.255.255.252
+ ipv6 address 2001:57::2/64
+
+
+interface GigabitEthernet0/0/3.2072
+ encapsulation dot1Q 2072
+ ip address 20.0.72.2 255.255.255.252
+ ipv6 address 2001:58::2/64
+
+
+interface GigabitEthernet0/0/3.2073
+ encapsulation dot1Q 2073
+ ip address 20.0.73.2 255.255.255.252
+ ipv6 address 2001:59::2/64
+
+
+interface GigabitEthernet0/0/3.2074
+ encapsulation dot1Q 2074
+ ip address 20.0.74.2 255.255.255.252
+ ipv6 address 2001:5a::2/64
+
+
+interface GigabitEthernet0/0/3.2075
+ encapsulation dot1Q 2075
+ ip address 20.0.75.2 255.255.255.252
+ ipv6 address 2001:5b::2/64
+
+
+interface GigabitEthernet0/0/3.2076
+ encapsulation dot1Q 2076
+ ip address 20.0.76.2 255.255.255.252
+ ipv6 address 2001:5c::2/64
+
+
+interface GigabitEthernet0/0/3.2077
+ encapsulation dot1Q 2077
+ ip address 20.0.77.2 255.255.255.252
+ ipv6 address 2001:5d::2/64
+
+
+interface GigabitEthernet0/0/3.2078
+ encapsulation dot1Q 2078
+ ip address 20.0.78.2 255.255.255.252
+ ipv6 address 2001:5e::2/64
+
+
+interface GigabitEthernet0/0/3.2079
+ encapsulation dot1Q 2079
+ ip address 20.0.79.2 255.255.255.252
+ ipv6 address 2001:5f::2/64
+
+
+interface GigabitEthernet0/0/3.2080
+ encapsulation dot1Q 2080
+ ip address 20.0.80.2 255.255.255.252
+ ipv6 address 2001:60::2/64
+
+
+interface GigabitEthernet0/0/3.2081
+ encapsulation dot1Q 2081
+ ip address 20.0.81.2 255.255.255.252
+ ipv6 address 2001:61::2/64
+
+
+interface GigabitEthernet0/0/3.2082
+ encapsulation dot1Q 2082
+ ip address 20.0.82.2 255.255.255.252
+ ipv6 address 2001:62::2/64
+
+
+interface GigabitEthernet0/0/3.2083
+ encapsulation dot1Q 2083
+ ip address 20.0.83.2 255.255.255.252
+ ipv6 address 2001:63::2/64
+
+
+interface GigabitEthernet0/0/3.2084
+ encapsulation dot1Q 2084
+ ip address 20.0.84.2 255.255.255.252
+ ipv6 address 2001:64::2/64
+
+
+interface GigabitEthernet0/0/3.2085
+ encapsulation dot1Q 2085
+ ip address 20.0.85.2 255.255.255.252
+ ipv6 address 2001:65::2/64
+
+
+interface GigabitEthernet0/0/3.2086
+ encapsulation dot1Q 2086
+ ip address 20.0.86.2 255.255.255.252
+ ipv6 address 2001:66::2/64
+
+
+interface GigabitEthernet0/0/3.2087
+ encapsulation dot1Q 2087
+ ip address 20.0.87.2 255.255.255.252
+ ipv6 address 2001:67::2/64
+
+
+interface GigabitEthernet0/0/3.2088
+ encapsulation dot1Q 2088
+ ip address 20.0.88.2 255.255.255.252
+ ipv6 address 2001:68::2/64
+
+
+interface GigabitEthernet0/0/3.2089
+ encapsulation dot1Q 2089
+ ip address 20.0.89.2 255.255.255.252
+ ipv6 address 2001:69::2/64
+
+
+interface GigabitEthernet0/0/3.2090
+ encapsulation dot1Q 2090
+ ip address 20.0.90.2 255.255.255.252
+ ipv6 address 2001:6a::2/64
+
+
+interface GigabitEthernet0/0/3.2091
+ encapsulation dot1Q 2091
+ ip address 20.0.91.2 255.255.255.252
+ ipv6 address 2001:6b::2/64
+
+
+interface GigabitEthernet0/0/3.2092
+ encapsulation dot1Q 2092
+ ip address 20.0.92.2 255.255.255.252
+ ipv6 address 2001:6c::2/64
+
+
+interface GigabitEthernet0/0/3.2093
+ encapsulation dot1Q 2093
+ ip address 20.0.93.2 255.255.255.252
+ ipv6 address 2001:6d::2/64
+
+
+interface GigabitEthernet0/0/3.2094
+ encapsulation dot1Q 2094
+ ip address 20.0.94.2 255.255.255.252
+ ipv6 address 2001:6e::2/64
+
+
+interface GigabitEthernet0/0/3.2095
+ encapsulation dot1Q 2095
+ ip address 20.0.95.2 255.255.255.252
+ ipv6 address 2001:6f::2/64
+
+
+interface GigabitEthernet0/0/3.2096
+ encapsulation dot1Q 2096
+ ip address 20.0.96.2 255.255.255.252
+ ipv6 address 2001:70::2/64
+
+
+interface GigabitEthernet0/0/3.2097
+ encapsulation dot1Q 2097
+ ip address 20.0.97.2 255.255.255.252
+ ipv6 address 2001:71::2/64
+
+
+interface GigabitEthernet0/0/3.2098
+ encapsulation dot1Q 2098
+ ip address 20.0.98.2 255.255.255.252
+ ipv6 address 2001:72::2/64
+
+
+interface GigabitEthernet0/0/3.2099
+ encapsulation dot1Q 2099
+ ip address 20.0.99.2 255.255.255.252
+ ipv6 address 2001:73::2/64
+
+
+interface GigabitEthernet0/0/3.2100
+ encapsulation dot1Q 2100
+ ip address 20.0.100.2 255.255.255.252
+ ipv6 address 2001:74::2/64
+
+
+interface GigabitEthernet0/0/3.2101
+ encapsulation dot1Q 2101
+ ip address 20.0.101.2 255.255.255.252
+ ipv6 address 2001:75::2/64
+
+
+interface GigabitEthernet0/0/3.2102
+ encapsulation dot1Q 2102
+ ip address 20.0.102.2 255.255.255.252
+ ipv6 address 2001:76::2/64
+
+
+interface GigabitEthernet0/0/3.2103
+ encapsulation dot1Q 2103
+ ip address 20.0.103.2 255.255.255.252
+ ipv6 address 2001:77::2/64
+
+
+interface GigabitEthernet0/0/3.2104
+ encapsulation dot1Q 2104
+ ip address 20.0.104.2 255.255.255.252
+ ipv6 address 2001:78::2/64
+
+
+interface GigabitEthernet0/0/3.2105
+ encapsulation dot1Q 2105
+ ip address 20.0.105.2 255.255.255.252
+ ipv6 address 2001:79::2/64
+
+
+interface GigabitEthernet0/0/3.2106
+ encapsulation dot1Q 2106
+ ip address 20.0.106.2 255.255.255.252
+ ipv6 address 2001:7a::2/64
+
+
+interface GigabitEthernet0/0/3.2107
+ encapsulation dot1Q 2107
+ ip address 20.0.107.2 255.255.255.252
+ ipv6 address 2001:7b::2/64
+
+
+interface GigabitEthernet0/0/3.2108
+ encapsulation dot1Q 2108
+ ip address 20.0.108.2 255.255.255.252
+ ipv6 address 2001:7c::2/64
+
+
+interface GigabitEthernet0/0/3.2109
+ encapsulation dot1Q 2109
+ ip address 20.0.109.2 255.255.255.252
+ ipv6 address 2001:7d::2/64
+
+
+interface GigabitEthernet0/0/3.2110
+ encapsulation dot1Q 2110
+ ip address 20.0.110.2 255.255.255.252
+ ipv6 address 2001:7e::2/64
+
+
+interface GigabitEthernet0/0/3.2111
+ encapsulation dot1Q 2111
+ ip address 20.0.111.2 255.255.255.252
+ ipv6 address 2001:7f::2/64
+
+
+interface GigabitEthernet0/0/3.2112
+ encapsulation dot1Q 2112
+ ip address 20.0.112.2 255.255.255.252
+ ipv6 address 2001:80::2/64
+
+
+interface GigabitEthernet0/0/3.2113
+ encapsulation dot1Q 2113
+ ip address 20.0.113.2 255.255.255.252
+ ipv6 address 2001:81::2/64
+
+
+interface GigabitEthernet0/0/3.2114
+ encapsulation dot1Q 2114
+ ip address 20.0.114.2 255.255.255.252
+ ipv6 address 2001:82::2/64
+
+
+interface GigabitEthernet0/0/3.2115
+ encapsulation dot1Q 2115
+ ip address 20.0.115.2 255.255.255.252
+ ipv6 address 2001:83::2/64
+
+
+interface GigabitEthernet0/0/3.2116
+ encapsulation dot1Q 2116
+ ip address 20.0.116.2 255.255.255.252
+ ipv6 address 2001:84::2/64
+
+
+interface GigabitEthernet0/0/3.2117
+ encapsulation dot1Q 2117
+ ip address 20.0.117.2 255.255.255.252
+ ipv6 address 2001:85::2/64
+
+
+interface GigabitEthernet0/0/3.2118
+ encapsulation dot1Q 2118
+ ip address 20.0.118.2 255.255.255.252
+ ipv6 address 2001:86::2/64
+
+
+interface GigabitEthernet0/0/3.2119
+ encapsulation dot1Q 2119
+ ip address 20.0.119.2 255.255.255.252
+ ipv6 address 2001:87::2/64
+
+
+interface GigabitEthernet0/0/3.2120
+ encapsulation dot1Q 2120
+ ip address 20.0.120.2 255.255.255.252
+ ipv6 address 2001:88::2/64
+
+
+interface GigabitEthernet0/0/3.2121
+ encapsulation dot1Q 2121
+ ip address 20.0.121.2 255.255.255.252
+ ipv6 address 2001:89::2/64
+
+
+interface GigabitEthernet0/0/3.2122
+ encapsulation dot1Q 2122
+ ip address 20.0.122.2 255.255.255.252
+ ipv6 address 2001:8a::2/64
+
+
+interface GigabitEthernet0/0/3.2123
+ encapsulation dot1Q 2123
+ ip address 20.0.123.2 255.255.255.252
+ ipv6 address 2001:8b::2/64
+
+
+interface GigabitEthernet0/0/3.2124
+ encapsulation dot1Q 2124
+ ip address 20.0.124.2 255.255.255.252
+ ipv6 address 2001:8c::2/64
+
+
+interface GigabitEthernet0/0/3.2125
+ encapsulation dot1Q 2125
+ ip address 20.0.125.2 255.255.255.252
+ ipv6 address 2001:8d::2/64
+
+
+interface GigabitEthernet0/0/3.2126
+ encapsulation dot1Q 2126
+ ip address 20.0.126.2 255.255.255.252
+ ipv6 address 2001:8e::2/64
+
+
+interface GigabitEthernet0/0/3.2127
+ encapsulation dot1Q 2127
+ ip address 20.0.127.2 255.255.255.252
+ ipv6 address 2001:8f::2/64
+
+
+interface GigabitEthernet0/0/3.2128
+ encapsulation dot1Q 2128
+ ip address 20.0.128.2 255.255.255.252
+ ipv6 address 2001:90::2/64
+
+
+interface GigabitEthernet0/0/3.2129
+ encapsulation dot1Q 2129
+ ip address 20.0.129.2 255.255.255.252
+ ipv6 address 2001:91::2/64
+
+
+interface GigabitEthernet0/0/3.2130
+ encapsulation dot1Q 2130
+ ip address 20.0.130.2 255.255.255.252
+ ipv6 address 2001:92::2/64
+
+
+interface GigabitEthernet0/0/3.2131
+ encapsulation dot1Q 2131
+ ip address 20.0.131.2 255.255.255.252
+ ipv6 address 2001:93::2/64
+
+
+interface GigabitEthernet0/0/3.2132
+ encapsulation dot1Q 2132
+ ip address 20.0.132.2 255.255.255.252
+ ipv6 address 2001:94::2/64
+
+
+interface GigabitEthernet0/0/3.2133
+ encapsulation dot1Q 2133
+ ip address 20.0.133.2 255.255.255.252
+ ipv6 address 2001:95::2/64
+
+
+interface GigabitEthernet0/0/3.2134
+ encapsulation dot1Q 2134
+ ip address 20.0.134.2 255.255.255.252
+ ipv6 address 2001:96::2/64
+
+
+interface GigabitEthernet0/0/3.2135
+ encapsulation dot1Q 2135
+ ip address 20.0.135.2 255.255.255.252
+ ipv6 address 2001:97::2/64
+
+
+interface GigabitEthernet0/0/3.2136
+ encapsulation dot1Q 2136
+ ip address 20.0.136.2 255.255.255.252
+ ipv6 address 2001:98::2/64
+
+
+interface GigabitEthernet0/0/3.2137
+ encapsulation dot1Q 2137
+ ip address 20.0.137.2 255.255.255.252
+ ipv6 address 2001:99::2/64
+
+
+interface GigabitEthernet0/0/3.2138
+ encapsulation dot1Q 2138
+ ip address 20.0.138.2 255.255.255.252
+ ipv6 address 2001:9a::2/64
+
+
+interface GigabitEthernet0/0/3.2139
+ encapsulation dot1Q 2139
+ ip address 20.0.139.2 255.255.255.252
+ ipv6 address 2001:9b::2/64
+
+
+interface GigabitEthernet0/0/3.2140
+ encapsulation dot1Q 2140
+ ip address 20.0.140.2 255.255.255.252
+ ipv6 address 2001:9c::2/64
+
+
+interface GigabitEthernet0/0/3.2141
+ encapsulation dot1Q 2141
+ ip address 20.0.141.2 255.255.255.252
+ ipv6 address 2001:9d::2/64
+
+
+interface GigabitEthernet0/0/3.2142
+ encapsulation dot1Q 2142
+ ip address 20.0.142.2 255.255.255.252
+ ipv6 address 2001:9e::2/64
+
+
+interface GigabitEthernet0/0/3.2143
+ encapsulation dot1Q 2143
+ ip address 20.0.143.2 255.255.255.252
+ ipv6 address 2001:9f::2/64
+
+
+interface GigabitEthernet0/0/3.2144
+ encapsulation dot1Q 2144
+ ip address 20.0.144.2 255.255.255.252
+ ipv6 address 2001:a0::2/64
+
+
+interface GigabitEthernet0/0/3.2145
+ encapsulation dot1Q 2145
+ ip address 20.0.145.2 255.255.255.252
+ ipv6 address 2001:a1::2/64
+
+
+interface GigabitEthernet0/0/3.2146
+ encapsulation dot1Q 2146
+ ip address 20.0.146.2 255.255.255.252
+ ipv6 address 2001:a2::2/64
+
+
+interface GigabitEthernet0/0/3.2147
+ encapsulation dot1Q 2147
+ ip address 20.0.147.2 255.255.255.252
+ ipv6 address 2001:a3::2/64
+
+
+interface GigabitEthernet0/0/3.2148
+ encapsulation dot1Q 2148
+ ip address 20.0.148.2 255.255.255.252
+ ipv6 address 2001:a4::2/64
+
+
+interface GigabitEthernet0/0/3.2149
+ encapsulation dot1Q 2149
+ ip address 20.0.149.2 255.255.255.252
+ ipv6 address 2001:a5::2/64
+
+
+interface GigabitEthernet0/0/3.2150
+ encapsulation dot1Q 2150
+ ip address 20.0.150.2 255.255.255.252
+ ipv6 address 2001:a6::2/64
+
+
+interface GigabitEthernet0/0/3.2151
+ encapsulation dot1Q 2151
+ ip address 20.0.151.2 255.255.255.252
+ ipv6 address 2001:a7::2/64
+
+
+interface GigabitEthernet0/0/3.2152
+ encapsulation dot1Q 2152
+ ip address 20.0.152.2 255.255.255.252
+ ipv6 address 2001:a8::2/64
+
+
+interface GigabitEthernet0/0/3.2153
+ encapsulation dot1Q 2153
+ ip address 20.0.153.2 255.255.255.252
+ ipv6 address 2001:a9::2/64
+
+
+interface GigabitEthernet0/0/3.2154
+ encapsulation dot1Q 2154
+ ip address 20.0.154.2 255.255.255.252
+ ipv6 address 2001:aa::2/64
+
+
+interface GigabitEthernet0/0/3.2155
+ encapsulation dot1Q 2155
+ ip address 20.0.155.2 255.255.255.252
+ ipv6 address 2001:ab::2/64
+
+
+interface GigabitEthernet0/0/3.2156
+ encapsulation dot1Q 2156
+ ip address 20.0.156.2 255.255.255.252
+ ipv6 address 2001:ac::2/64
+
+
+interface GigabitEthernet0/0/3.2157
+ encapsulation dot1Q 2157
+ ip address 20.0.157.2 255.255.255.252
+ ipv6 address 2001:ad::2/64
+
+
+interface GigabitEthernet0/0/3.2158
+ encapsulation dot1Q 2158
+ ip address 20.0.158.2 255.255.255.252
+ ipv6 address 2001:ae::2/64
+
+
+interface GigabitEthernet0/0/3.2159
+ encapsulation dot1Q 2159
+ ip address 20.0.159.2 255.255.255.252
+ ipv6 address 2001:af::2/64
+
+
+interface GigabitEthernet0/0/3.2160
+ encapsulation dot1Q 2160
+ ip address 20.0.160.2 255.255.255.252
+ ipv6 address 2001:b0::2/64
+
+
+interface GigabitEthernet0/0/3.2161
+ encapsulation dot1Q 2161
+ ip address 20.0.161.2 255.255.255.252
+ ipv6 address 2001:b1::2/64
+
+
+interface GigabitEthernet0/0/3.2162
+ encapsulation dot1Q 2162
+ ip address 20.0.162.2 255.255.255.252
+ ipv6 address 2001:b2::2/64
+
+
+interface GigabitEthernet0/0/3.2163
+ encapsulation dot1Q 2163
+ ip address 20.0.163.2 255.255.255.252
+ ipv6 address 2001:b3::2/64
+
+
+interface GigabitEthernet0/0/3.2164
+ encapsulation dot1Q 2164
+ ip address 20.0.164.2 255.255.255.252
+ ipv6 address 2001:b4::2/64
+
+
+interface GigabitEthernet0/0/3.2165
+ encapsulation dot1Q 2165
+ ip address 20.0.165.2 255.255.255.252
+ ipv6 address 2001:b5::2/64
+
+
+interface GigabitEthernet0/0/3.2166
+ encapsulation dot1Q 2166
+ ip address 20.0.166.2 255.255.255.252
+ ipv6 address 2001:b6::2/64
+
+
+interface GigabitEthernet0/0/3.2167
+ encapsulation dot1Q 2167
+ ip address 20.0.167.2 255.255.255.252
+ ipv6 address 2001:b7::2/64
+
+
+interface GigabitEthernet0/0/3.2168
+ encapsulation dot1Q 2168
+ ip address 20.0.168.2 255.255.255.252
+ ipv6 address 2001:b8::2/64
+
+
+interface GigabitEthernet0/0/3.2169
+ encapsulation dot1Q 2169
+ ip address 20.0.169.2 255.255.255.252
+ ipv6 address 2001:b9::2/64
+
+
+interface GigabitEthernet0/0/3.2170
+ encapsulation dot1Q 2170
+ ip address 20.0.170.2 255.255.255.252
+ ipv6 address 2001:ba::2/64
+
+
+interface GigabitEthernet0/0/3.2171
+ encapsulation dot1Q 2171
+ ip address 20.0.171.2 255.255.255.252
+ ipv6 address 2001:bb::2/64
+
+
+interface GigabitEthernet0/0/3.2172
+ encapsulation dot1Q 2172
+ ip address 20.0.172.2 255.255.255.252
+ ipv6 address 2001:bc::2/64
+
+
+interface GigabitEthernet0/0/3.2173
+ encapsulation dot1Q 2173
+ ip address 20.0.173.2 255.255.255.252
+ ipv6 address 2001:bd::2/64
+
+
+interface GigabitEthernet0/0/3.2174
+ encapsulation dot1Q 2174
+ ip address 20.0.174.2 255.255.255.252
+ ipv6 address 2001:be::2/64
+
+
+interface GigabitEthernet0/0/3.2175
+ encapsulation dot1Q 2175
+ ip address 20.0.175.2 255.255.255.252
+ ipv6 address 2001:bf::2/64
+
+
+interface GigabitEthernet0/0/3.2176
+ encapsulation dot1Q 2176
+ ip address 20.0.176.2 255.255.255.252
+ ipv6 address 2001:c0::2/64
+
+
+interface GigabitEthernet0/0/3.2177
+ encapsulation dot1Q 2177
+ ip address 20.0.177.2 255.255.255.252
+ ipv6 address 2001:c1::2/64
+
+
+interface GigabitEthernet0/0/3.2178
+ encapsulation dot1Q 2178
+ ip address 20.0.178.2 255.255.255.252
+ ipv6 address 2001:c2::2/64
+
+
+interface GigabitEthernet0/0/3.2179
+ encapsulation dot1Q 2179
+ ip address 20.0.179.2 255.255.255.252
+ ipv6 address 2001:c3::2/64
+
+
+interface GigabitEthernet0/0/3.2180
+ encapsulation dot1Q 2180
+ ip address 20.0.180.2 255.255.255.252
+ ipv6 address 2001:c4::2/64
+
+
+interface GigabitEthernet0/0/3.2181
+ encapsulation dot1Q 2181
+ ip address 20.0.181.2 255.255.255.252
+ ipv6 address 2001:c5::2/64
+
+
+interface GigabitEthernet0/0/3.2182
+ encapsulation dot1Q 2182
+ ip address 20.0.182.2 255.255.255.252
+ ipv6 address 2001:c6::2/64
+
+
+interface GigabitEthernet0/0/3.2183
+ encapsulation dot1Q 2183
+ ip address 20.0.183.2 255.255.255.252
+ ipv6 address 2001:c7::2/64
+
+
+interface GigabitEthernet0/0/3.2184
+ encapsulation dot1Q 2184
+ ip address 20.0.184.2 255.255.255.252
+ ipv6 address 2001:c8::2/64
+
+
+interface GigabitEthernet0/0/3.2185
+ encapsulation dot1Q 2185
+ ip address 20.0.185.2 255.255.255.252
+ ipv6 address 2001:c9::2/64
+
+
+interface GigabitEthernet0/0/3.2186
+ encapsulation dot1Q 2186
+ ip address 20.0.186.2 255.255.255.252
+ ipv6 address 2001:ca::2/64
+
+
+interface GigabitEthernet0/0/3.2187
+ encapsulation dot1Q 2187
+ ip address 20.0.187.2 255.255.255.252
+ ipv6 address 2001:cb::2/64
+
+
+interface GigabitEthernet0/0/3.2188
+ encapsulation dot1Q 2188
+ ip address 20.0.188.2 255.255.255.252
+ ipv6 address 2001:cc::2/64
+
+
+interface GigabitEthernet0/0/3.2189
+ encapsulation dot1Q 2189
+ ip address 20.0.189.2 255.255.255.252
+ ipv6 address 2001:cd::2/64
+
+
+interface GigabitEthernet0/0/3.2190
+ encapsulation dot1Q 2190
+ ip address 20.0.190.2 255.255.255.252
+ ipv6 address 2001:ce::2/64
+
+
+interface GigabitEthernet0/0/3.2191
+ encapsulation dot1Q 2191
+ ip address 20.0.191.2 255.255.255.252
+ ipv6 address 2001:cf::2/64
+
+
+interface GigabitEthernet0/0/3.2192
+ encapsulation dot1Q 2192
+ ip address 20.0.192.2 255.255.255.252
+ ipv6 address 2001:d0::2/64
+
+
+interface GigabitEthernet0/0/3.2193
+ encapsulation dot1Q 2193
+ ip address 20.0.193.2 255.255.255.252
+ ipv6 address 2001:d1::2/64
+
+
+interface GigabitEthernet0/0/3.2194
+ encapsulation dot1Q 2194
+ ip address 20.0.194.2 255.255.255.252
+ ipv6 address 2001:d2::2/64
+
+
+interface GigabitEthernet0/0/3.2195
+ encapsulation dot1Q 2195
+ ip address 20.0.195.2 255.255.255.252
+ ipv6 address 2001:d3::2/64
+
+
+interface GigabitEthernet0/0/3.2196
+ encapsulation dot1Q 2196
+ ip address 20.0.196.2 255.255.255.252
+ ipv6 address 2001:d4::2/64
+
+
+interface GigabitEthernet0/0/3.2197
+ encapsulation dot1Q 2197
+ ip address 20.0.197.2 255.255.255.252
+ ipv6 address 2001:d5::2/64
+
+
+interface GigabitEthernet0/0/3.2198
+ encapsulation dot1Q 2198
+ ip address 20.0.198.2 255.255.255.252
+ ipv6 address 2001:d6::2/64
+
+
+interface GigabitEthernet0/0/3.2199
+ encapsulation dot1Q 2199
+ ip address 20.0.199.2 255.255.255.252
+ ipv6 address 2001:d7::2/64
+
+
+interface GigabitEthernet0/0/3.2200
+ encapsulation dot1Q 2200
+ ip address 20.0.200.2 255.255.255.252
+ ipv6 address 2001:d8::2/64
+
+
+interface GigabitEthernet0/0/3.2201
+ encapsulation dot1Q 2201
+ ip address 20.0.201.2 255.255.255.252
+ ipv6 address 2001:d9::2/64
+
+
+interface GigabitEthernet0/0/3.2202
+ encapsulation dot1Q 2202
+ ip address 20.0.202.2 255.255.255.252
+ ipv6 address 2001:da::2/64
+
+
+interface GigabitEthernet0/0/3.2203
+ encapsulation dot1Q 2203
+ ip address 20.0.203.2 255.255.255.252
+ ipv6 address 2001:db::2/64
+
+
+interface GigabitEthernet0/0/3.2204
+ encapsulation dot1Q 2204
+ ip address 20.0.204.2 255.255.255.252
+ ipv6 address 2001:dc::2/64
+
+
+interface GigabitEthernet0/0/3.2205
+ encapsulation dot1Q 2205
+ ip address 20.0.205.2 255.255.255.252
+ ipv6 address 2001:dd::2/64
+
+
+interface GigabitEthernet0/0/3.2206
+ encapsulation dot1Q 2206
+ ip address 20.0.206.2 255.255.255.252
+ ipv6 address 2001:de::2/64
+
+
+interface GigabitEthernet0/0/3.2207
+ encapsulation dot1Q 2207
+ ip address 20.0.207.2 255.255.255.252
+ ipv6 address 2001:df::2/64
+
+
+interface GigabitEthernet0/0/3.2208
+ encapsulation dot1Q 2208
+ ip address 20.0.208.2 255.255.255.252
+ ipv6 address 2001:e0::2/64
+
+
+interface GigabitEthernet0/0/3.2209
+ encapsulation dot1Q 2209
+ ip address 20.0.209.2 255.255.255.252
+ ipv6 address 2001:e1::2/64
+
+
+interface GigabitEthernet0/0/3.2210
+ encapsulation dot1Q 2210
+ ip address 20.0.210.2 255.255.255.252
+ ipv6 address 2001:e2::2/64
+
+
+interface GigabitEthernet0/0/3.2211
+ encapsulation dot1Q 2211
+ ip address 20.0.211.2 255.255.255.252
+ ipv6 address 2001:e3::2/64
+
+
+interface GigabitEthernet0/0/3.2212
+ encapsulation dot1Q 2212
+ ip address 20.0.212.2 255.255.255.252
+ ipv6 address 2001:e4::2/64
+
+
+interface GigabitEthernet0/0/3.2213
+ encapsulation dot1Q 2213
+ ip address 20.0.213.2 255.255.255.252
+ ipv6 address 2001:e5::2/64
+
+
+interface GigabitEthernet0/0/3.2214
+ encapsulation dot1Q 2214
+ ip address 20.0.214.2 255.255.255.252
+ ipv6 address 2001:e6::2/64
+
+
+interface GigabitEthernet0/0/3.2215
+ encapsulation dot1Q 2215
+ ip address 20.0.215.2 255.255.255.252
+ ipv6 address 2001:e7::2/64
+
+
+interface GigabitEthernet0/0/3.2216
+ encapsulation dot1Q 2216
+ ip address 20.0.216.2 255.255.255.252
+ ipv6 address 2001:e8::2/64
+
+
+interface GigabitEthernet0/0/3.2217
+ encapsulation dot1Q 2217
+ ip address 20.0.217.2 255.255.255.252
+ ipv6 address 2001:e9::2/64
+
+
+interface GigabitEthernet0/0/3.2218
+ encapsulation dot1Q 2218
+ ip address 20.0.218.2 255.255.255.252
+ ipv6 address 2001:ea::2/64
+
+
+interface GigabitEthernet0/0/3.2219
+ encapsulation dot1Q 2219
+ ip address 20.0.219.2 255.255.255.252
+ ipv6 address 2001:eb::2/64
+
+
+interface GigabitEthernet0/0/3.2220
+ encapsulation dot1Q 2220
+ ip address 20.0.220.2 255.255.255.252
+ ipv6 address 2001:ec::2/64
+
+
+interface GigabitEthernet0/0/3.2221
+ encapsulation dot1Q 2221
+ ip address 20.0.221.2 255.255.255.252
+ ipv6 address 2001:ed::2/64
+
+
+interface GigabitEthernet0/0/3.2222
+ encapsulation dot1Q 2222
+ ip address 20.0.222.2 255.255.255.252
+ ipv6 address 2001:ee::2/64
+
+
+interface GigabitEthernet0/0/3.2223
+ encapsulation dot1Q 2223
+ ip address 20.0.223.2 255.255.255.252
+ ipv6 address 2001:ef::2/64
+
+
+interface GigabitEthernet0/0/3.2224
+ encapsulation dot1Q 2224
+ ip address 20.0.224.2 255.255.255.252
+ ipv6 address 2001:f0::2/64
+
+
+interface GigabitEthernet0/0/3.2225
+ encapsulation dot1Q 2225
+ ip address 20.0.225.2 255.255.255.252
+ ipv6 address 2001:f1::2/64
+
+
+interface GigabitEthernet0/0/3.2226
+ encapsulation dot1Q 2226
+ ip address 20.0.226.2 255.255.255.252
+ ipv6 address 2001:f2::2/64
+
+
+interface GigabitEthernet0/0/3.2227
+ encapsulation dot1Q 2227
+ ip address 20.0.227.2 255.255.255.252
+ ipv6 address 2001:f3::2/64
+
+
+interface GigabitEthernet0/0/3.2228
+ encapsulation dot1Q 2228
+ ip address 20.0.228.2 255.255.255.252
+ ipv6 address 2001:f4::2/64
+
+
+interface GigabitEthernet0/0/3.2229
+ encapsulation dot1Q 2229
+ ip address 20.0.229.2 255.255.255.252
+ ipv6 address 2001:f5::2/64
+
+
+interface GigabitEthernet0/0/3.2230
+ encapsulation dot1Q 2230
+ ip address 20.0.230.2 255.255.255.252
+ ipv6 address 2001:f6::2/64
+
+
+interface GigabitEthernet0/0/3.2231
+ encapsulation dot1Q 2231
+ ip address 20.0.231.2 255.255.255.252
+ ipv6 address 2001:f7::2/64
+
+
+interface GigabitEthernet0/0/3.2232
+ encapsulation dot1Q 2232
+ ip address 20.0.232.2 255.255.255.252
+ ipv6 address 2001:f8::2/64
+
+
+interface GigabitEthernet0/0/3.2233
+ encapsulation dot1Q 2233
+ ip address 20.0.233.2 255.255.255.252
+ ipv6 address 2001:f9::2/64
+
+
+interface GigabitEthernet0/0/3.2234
+ encapsulation dot1Q 2234
+ ip address 20.0.234.2 255.255.255.252
+ ipv6 address 2001:fa::2/64
+
+
+interface GigabitEthernet0/0/3.2235
+ encapsulation dot1Q 2235
+ ip address 20.0.235.2 255.255.255.252
+ ipv6 address 2001:fb::2/64
+
+
+interface GigabitEthernet0/0/3.2236
+ encapsulation dot1Q 2236
+ ip address 20.0.236.2 255.255.255.252
+ ipv6 address 2001:fc::2/64
+
+
+interface GigabitEthernet0/0/3.2237
+ encapsulation dot1Q 2237
+ ip address 20.0.237.2 255.255.255.252
+ ipv6 address 2001:fd::2/64
+
+
+interface GigabitEthernet0/0/3.2238
+ encapsulation dot1Q 2238
+ ip address 20.0.238.2 255.255.255.252
+ ipv6 address 2001:fe::2/64
+
+
+interface GigabitEthernet0/0/3.2239
+ encapsulation dot1Q 2239
+ ip address 20.0.239.2 255.255.255.252
+ ipv6 address 2001:ff::2/64
+
+
+interface GigabitEthernet0/0/3.2240
+ encapsulation dot1Q 2240
+ ip address 20.0.240.2 255.255.255.252
+ ipv6 address 2001:100::2/64
+
+
+interface GigabitEthernet0/0/3.2241
+ encapsulation dot1Q 2241
+ ip address 20.0.241.2 255.255.255.252
+ ipv6 address 2001:101::2/64
+
+
+interface GigabitEthernet0/0/3.2242
+ encapsulation dot1Q 2242
+ ip address 20.0.242.2 255.255.255.252
+ ipv6 address 2001:102::2/64
+
+
+interface GigabitEthernet0/0/3.2243
+ encapsulation dot1Q 2243
+ ip address 20.0.243.2 255.255.255.252
+ ipv6 address 2001:103::2/64
+
+
+interface GigabitEthernet0/0/3.2244
+ encapsulation dot1Q 2244
+ ip address 20.0.244.2 255.255.255.252
+ ipv6 address 2001:104::2/64
+
+
+interface GigabitEthernet0/0/3.2245
+ encapsulation dot1Q 2245
+ ip address 20.0.245.2 255.255.255.252
+ ipv6 address 2001:105::2/64
+
+
+interface GigabitEthernet0/0/3.2246
+ encapsulation dot1Q 2246
+ ip address 20.0.246.2 255.255.255.252
+ ipv6 address 2001:106::2/64
+
+
+interface GigabitEthernet0/0/3.2247
+ encapsulation dot1Q 2247
+ ip address 20.0.247.2 255.255.255.252
+ ipv6 address 2001:107::2/64
+
+
+interface GigabitEthernet0/0/3.2248
+ encapsulation dot1Q 2248
+ ip address 20.0.248.2 255.255.255.252
+ ipv6 address 2001:108::2/64
+
+
+interface GigabitEthernet0/0/3.2249
+ encapsulation dot1Q 2249
+ ip address 20.0.249.2 255.255.255.252
+ ipv6 address 2001:109::2/64
+
+
+interface GigabitEthernet0/0/3.2250
+ encapsulation dot1Q 2250
+ ip address 20.0.250.2 255.255.255.252
+ ipv6 address 2001:10a::2/64
+
+
+interface GigabitEthernet0/0/3.2251
+ encapsulation dot1Q 2251
+ ip address 20.0.251.2 255.255.255.252
+ ipv6 address 2001:10b::2/64
+
+
+interface GigabitEthernet0/0/3.2252
+ encapsulation dot1Q 2252
+ ip address 20.0.252.2 255.255.255.252
+ ipv6 address 2001:10c::2/64
+
+
+interface GigabitEthernet0/0/3.2253
+ encapsulation dot1Q 2253
+ ip address 20.0.253.2 255.255.255.252
+ ipv6 address 2001:10d::2/64
+
+
+interface GigabitEthernet0/0/3.2254
+ encapsulation dot1Q 2254
+ ip address 20.0.254.2 255.255.255.252
+ ipv6 address 2001:10e::2/64
+
+
+interface GigabitEthernet0/0/3.2255
+ encapsulation dot1Q 2255
+ ip address 20.0.255.2 255.255.255.252
+ ipv6 address 2001:10f::2/64
+
+
+interface GigabitEthernet0/0/3.2256
+ encapsulation dot1Q 2256
+ ip address 20.1.0.2 255.255.255.252
+ ipv6 address 2001:110::2/64
+
+
+interface GigabitEthernet0/0/3.2257
+ encapsulation dot1Q 2257
+ ip address 20.1.1.2 255.255.255.252
+ ipv6 address 2001:111::2/64
+
+
+interface GigabitEthernet0/0/3.2258
+ encapsulation dot1Q 2258
+ ip address 20.1.2.2 255.255.255.252
+ ipv6 address 2001:112::2/64
+
+
+interface GigabitEthernet0/0/3.2259
+ encapsulation dot1Q 2259
+ ip address 20.1.3.2 255.255.255.252
+ ipv6 address 2001:113::2/64
+
+
+interface GigabitEthernet0/0/3.2260
+ encapsulation dot1Q 2260
+ ip address 20.1.4.2 255.255.255.252
+ ipv6 address 2001:114::2/64
+
+
+interface GigabitEthernet0/0/3.2261
+ encapsulation dot1Q 2261
+ ip address 20.1.5.2 255.255.255.252
+ ipv6 address 2001:115::2/64
+
+
+interface GigabitEthernet0/0/3.2262
+ encapsulation dot1Q 2262
+ ip address 20.1.6.2 255.255.255.252
+ ipv6 address 2001:116::2/64
+
+
+interface GigabitEthernet0/0/3.2263
+ encapsulation dot1Q 2263
+ ip address 20.1.7.2 255.255.255.252
+ ipv6 address 2001:117::2/64
+
+
+interface GigabitEthernet0/0/3.2264
+ encapsulation dot1Q 2264
+ ip address 20.1.8.2 255.255.255.252
+ ipv6 address 2001:118::2/64
+
+
+interface GigabitEthernet0/0/3.2265
+ encapsulation dot1Q 2265
+ ip address 20.1.9.2 255.255.255.252
+ ipv6 address 2001:119::2/64
+
+
+interface GigabitEthernet0/0/3.2266
+ encapsulation dot1Q 2266
+ ip address 20.1.10.2 255.255.255.252
+ ipv6 address 2001:11a::2/64
+
+
+interface GigabitEthernet0/0/3.2267
+ encapsulation dot1Q 2267
+ ip address 20.1.11.2 255.255.255.252
+ ipv6 address 2001:11b::2/64
+
+
+interface GigabitEthernet0/0/3.2268
+ encapsulation dot1Q 2268
+ ip address 20.1.12.2 255.255.255.252
+ ipv6 address 2001:11c::2/64
+
+
+interface GigabitEthernet0/0/3.2269
+ encapsulation dot1Q 2269
+ ip address 20.1.13.2 255.255.255.252
+ ipv6 address 2001:11d::2/64
+
+
+interface GigabitEthernet0/0/3.2270
+ encapsulation dot1Q 2270
+ ip address 20.1.14.2 255.255.255.252
+ ipv6 address 2001:11e::2/64
+
+
+interface GigabitEthernet0/0/3.2271
+ encapsulation dot1Q 2271
+ ip address 20.1.15.2 255.255.255.252
+ ipv6 address 2001:11f::2/64
+
+
+interface GigabitEthernet0/0/3.2272
+ encapsulation dot1Q 2272
+ ip address 20.1.16.2 255.255.255.252
+ ipv6 address 2001:120::2/64
+
+
+interface GigabitEthernet0/0/3.2273
+ encapsulation dot1Q 2273
+ ip address 20.1.17.2 255.255.255.252
+ ipv6 address 2001:121::2/64
+
+
+interface GigabitEthernet0/0/3.2274
+ encapsulation dot1Q 2274
+ ip address 20.1.18.2 255.255.255.252
+ ipv6 address 2001:122::2/64
+
+
+interface GigabitEthernet0/0/3.2275
+ encapsulation dot1Q 2275
+ ip address 20.1.19.2 255.255.255.252
+ ipv6 address 2001:123::2/64
+
+
+interface GigabitEthernet0/0/3.2276
+ encapsulation dot1Q 2276
+ ip address 20.1.20.2 255.255.255.252
+ ipv6 address 2001:124::2/64
+
+
+interface GigabitEthernet0/0/3.2277
+ encapsulation dot1Q 2277
+ ip address 20.1.21.2 255.255.255.252
+ ipv6 address 2001:125::2/64
+
+
+interface GigabitEthernet0/0/3.2278
+ encapsulation dot1Q 2278
+ ip address 20.1.22.2 255.255.255.252
+ ipv6 address 2001:126::2/64
+
+
+interface GigabitEthernet0/0/3.2279
+ encapsulation dot1Q 2279
+ ip address 20.1.23.2 255.255.255.252
+ ipv6 address 2001:127::2/64
+
+
+interface GigabitEthernet0/0/3.2280
+ encapsulation dot1Q 2280
+ ip address 20.1.24.2 255.255.255.252
+ ipv6 address 2001:128::2/64
+
+
+interface GigabitEthernet0/0/3.2281
+ encapsulation dot1Q 2281
+ ip address 20.1.25.2 255.255.255.252
+ ipv6 address 2001:129::2/64
+
+
+interface GigabitEthernet0/0/3.2282
+ encapsulation dot1Q 2282
+ ip address 20.1.26.2 255.255.255.252
+ ipv6 address 2001:12a::2/64
+
+
+interface GigabitEthernet0/0/3.2283
+ encapsulation dot1Q 2283
+ ip address 20.1.27.2 255.255.255.252
+ ipv6 address 2001:12b::2/64
+
+
+interface GigabitEthernet0/0/3.2284
+ encapsulation dot1Q 2284
+ ip address 20.1.28.2 255.255.255.252
+ ipv6 address 2001:12c::2/64
+
+
+interface GigabitEthernet0/0/3.2285
+ encapsulation dot1Q 2285
+ ip address 20.1.29.2 255.255.255.252
+ ipv6 address 2001:12d::2/64
+
+
+interface GigabitEthernet0/0/3.2286
+ encapsulation dot1Q 2286
+ ip address 20.1.30.2 255.255.255.252
+ ipv6 address 2001:12e::2/64
+
+
+interface GigabitEthernet0/0/3.2287
+ encapsulation dot1Q 2287
+ ip address 20.1.31.2 255.255.255.252
+ ipv6 address 2001:12f::2/64
+
+
+interface GigabitEthernet0/0/3.2288
+ encapsulation dot1Q 2288
+ ip address 20.1.32.2 255.255.255.252
+ ipv6 address 2001:130::2/64
+
+
+interface GigabitEthernet0/0/3.2289
+ encapsulation dot1Q 2289
+ ip address 20.1.33.2 255.255.255.252
+ ipv6 address 2001:131::2/64
+
+
+interface GigabitEthernet0/0/3.2290
+ encapsulation dot1Q 2290
+ ip address 20.1.34.2 255.255.255.252
+ ipv6 address 2001:132::2/64
+
+
+interface GigabitEthernet0/0/3.2291
+ encapsulation dot1Q 2291
+ ip address 20.1.35.2 255.255.255.252
+ ipv6 address 2001:133::2/64
+
+
+interface GigabitEthernet0/0/3.2292
+ encapsulation dot1Q 2292
+ ip address 20.1.36.2 255.255.255.252
+ ipv6 address 2001:134::2/64
+
+
+interface GigabitEthernet0/0/3.2293
+ encapsulation dot1Q 2293
+ ip address 20.1.37.2 255.255.255.252
+ ipv6 address 2001:135::2/64
+
+
+interface GigabitEthernet0/0/3.2294
+ encapsulation dot1Q 2294
+ ip address 20.1.38.2 255.255.255.252
+ ipv6 address 2001:136::2/64
+
+
+interface GigabitEthernet0/0/3.2295
+ encapsulation dot1Q 2295
+ ip address 20.1.39.2 255.255.255.252
+ ipv6 address 2001:137::2/64
+
+
+interface GigabitEthernet0/0/3.2296
+ encapsulation dot1Q 2296
+ ip address 20.1.40.2 255.255.255.252
+ ipv6 address 2001:138::2/64
+
+
+interface GigabitEthernet0/0/3.2297
+ encapsulation dot1Q 2297
+ ip address 20.1.41.2 255.255.255.252
+ ipv6 address 2001:139::2/64
+
+
+interface GigabitEthernet0/0/3.2298
+ encapsulation dot1Q 2298
+ ip address 20.1.42.2 255.255.255.252
+ ipv6 address 2001:13a::2/64
+
+
+interface GigabitEthernet0/0/3.2299
+ encapsulation dot1Q 2299
+ ip address 20.1.43.2 255.255.255.252
+ ipv6 address 2001:13b::2/64
+
