@@ -14,9 +14,14 @@ This script currently supports
 ```
 [sargandh:SARGANDH-3QLQC]$ git clone https://github.com/saravana815/scale_config_generator.git
 [sargandh:SARGANDH-3QLQC]$ cd scale_config_generator
-[sargandh:SARGANDH-3QLQC]$ python scale_config.py
-usage: scale_config.py [-h] -f FILE -c COUNT
-scale_config.py: error: argument -f/--file is required
+[sargandh:SARGANDH-3QLQC]$ python scale_config.py -h
+usage: scale_config.py [-h] -f FILE -c COUNT [-o OUTFILE]
+
+optional arguments:
+  -h, --help                      show this help message and exit
+  -f FILE, --file FILE            input config file
+  -c COUNT, --count COUNT         number of times to scale the configs
+  -o OUTFILE, --outfile OUTFILE   output file name for generated configs
 [sargandh:SARGANDH-3QLQC]$
 ```
 

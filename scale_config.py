@@ -8,6 +8,7 @@ from nested_dict import *
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--file', help='input config file', required=True)
 parser.add_argument('-c', '--count', help='number of times to scale the configs', required=True, type=int)
+parser.add_argument('-o', '--outfile', help='output file name for generated configs', required=False, default='configs_out.txt')
 args = parser.parse_args()
 
 def incr_ip(ip, incr_val):
@@ -173,7 +174,7 @@ for line in lines:
 # #for keys_as_tuple, value in lt.iteritems_flat():
 # #    print ("%-20s == %r" % (keys_as_tuple, value))
 
-file_out = 'config_out.txt'
+file_out = args.outfile
 fout = open(file_out, 'w')
 for i in range(args.count):
     for ln in range(len(lines)):
