@@ -1,6 +1,5 @@
 #local files
-config_out.txt
-config_test*
+config_*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
